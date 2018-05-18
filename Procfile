@@ -1,0 +1,1 @@
+web: java -jar target/saifyleapp-1.0.jar
